@@ -1,8 +1,8 @@
-# Gaia | Cyber Threat Intelligence Entusiast
+# Gaia | Cyber Threat Intelligence Enthusiast
 
 > “Every digital disaster originates within a human system.”
 
-I don’t just examine logs; I analyse the organisational and social dynamics that generate them. Thanks to my degree in Sociology and Security Policy, I have learnt that the social structure and the organisational dynamics it produces represent the decisive factor in how any event is responded to.
+I don’t just examine logs; I analyse the organisational and social dynamics that generate them. Thanks to my degrees in Sociology and Security Policies, both with a criminological focus, I have learnt that the social structure and the organizational dynamics it produces represent the decisive factor in how any event is responded to.
 
 My aim is to interweave the study of social disasters, geopolitical tensions and IT networks. I believe that understanding the anatomy of a crisis requires both the microscopic lens of IT analysis and the macroscopic view of the social sciences.
 
